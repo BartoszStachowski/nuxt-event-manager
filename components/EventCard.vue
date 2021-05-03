@@ -26,7 +26,7 @@ export default {
 </script>
 <style scoped>
 div {
-  padding: 20px;
+  padding: 21px;
   margin-bottom: 24px;
   transition: all 0.2s linear;
   cursor: pointer;
